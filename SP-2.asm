@@ -1,5 +1,5 @@
 #MIPS Assembly Project
-#Working Sorry-Shoots and Ladder Combo
+#Working Sorry-Shutes and Latters Combo
 #Completed April 2023- Nick Swanson
 
 .data
